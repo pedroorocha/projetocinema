@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/DAO/SessoesDeFilmesDao.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaDoAdmin.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/Sessão.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/DAO/AdmDAO.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/FillmeDao.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/controller/TelaDeCadastroController.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaFilmes.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaDeSessões.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/controller/TelaDeFinalizaçãoController.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/DAO/Banco.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaDeCadastro.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/controller/TelaDoAdmController.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/connection/ConnectionFactory.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/Adm.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/loginPanel.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaDeUsuario.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/DAO/ClienteDao.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/controller/helpers/LoginHelper.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/Cliente.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaDeFinalização.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/Login.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/AtualizarCadastro.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelaPoltronas.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/com/mycompany/projetoback/TelasDefilmes.java</file>
+            <file>file:/C:/Users/pedro/Documents/NetBeansProjects/JavaApplication2/src/controller/LoginController.java</file>
+        </group>
+    </open-files>
+</project-private>
